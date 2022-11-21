@@ -1,4 +1,4 @@
-package main.com.factorypattern;
+package main.java.com.creational.factorypattern;
 
 abstract class Plan {
 	

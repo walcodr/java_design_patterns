@@ -1,4 +1,4 @@
-package main.com.factorypattern;
+package main.java.com.creational.factorypattern;
 
 public class DomesticPlan extends Plan{
 	// this class extends abstract class Plan
